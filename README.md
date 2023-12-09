@@ -41,7 +41,7 @@
 
 <h3 align="left">Project Showcase:</h3>
 <a target="blank" href="https://github.com/developerbadrul/full-auth-react"><img src="https://raw.githubusercontent.com/developerbadrul/developerbadrul/main/assets/banner/project%201.gif" width="256"><a/>
-
+<a target="_blank" href="https://github.com/developerbadrul/SnapArt-Studio-Client"><img src="https://mern-stack-a17b3.web.app/assets/Logo-b6d20d2a.png" width="256"><a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
