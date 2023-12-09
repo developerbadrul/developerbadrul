@@ -1,5 +1,9 @@
+![Jr. Web Developer](https://raw.githubusercontent.com/developerbadrul/developerbadrul/main/assets/banner/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Md Badrul Alam</h1>
 <h3 align="center">Jr. Web Developer</h3>
+<!-- <p width="360px">Junior web developer skilled in MERN Stack and web design. Proven expertise in interface creation, MERN technologies, and troubleshooting for optimal productivity.
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerbadrul&label=Profile%20views&color=0e75b6&style=flat" alt="developerbadrul" /> </p>
 
