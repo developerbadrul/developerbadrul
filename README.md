@@ -39,6 +39,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vGUKxXJanMGnqkhZGIpwX1FPwticO7hh/view?usp=sharing](https://drive.google.com/file/d/1vGUKxXJanMGnqkhZGIpwX1FPwticO7hh/view?usp=sharing)
 
+<h3 align="left">Project Showcase:</h3>
+<a target="_blank" href="https://github.com/developerbadrul/full-auth-react"><img src="https://raw.githubusercontent.com/developerbadrul/developerbadrul/main/assets/banner/project%201.gif" width="256"><a/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/badrulalamhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badrulalamhridoy" height="30" width="40" /></a>
