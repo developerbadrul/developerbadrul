@@ -40,7 +40,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vGUKxXJanMGnqkhZGIpwX1FPwticO7hh/view?usp=sharing](https://drive.google.com/file/d/1vGUKxXJanMGnqkhZGIpwX1FPwticO7hh/view?usp=sharing)
 
 <h3 align="left">Project Showcase:</h3>
-<a target="_blank" href="https://github.com/developerbadrul/full-auth-react"><img src="https://raw.githubusercontent.com/developerbadrul/developerbadrul/main/assets/banner/project%201.gif" width="256"><a/>
+<a target="blank" href="https://github.com/developerbadrul/full-auth-react"><img src="https://raw.githubusercontent.com/developerbadrul/developerbadrul/main/assets/banner/project%201.gif" width="256"><a/>
 
 
 <h3 align="left">Connect with me:</h3>
