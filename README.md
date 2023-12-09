@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Md Badrul Alam</h1>
 <h3 align="center">Jr. Web Developer</h3>
-<!-- <p width="360px">Junior web developer skilled in MERN Stack and web design. Proven expertise in interface creation, MERN technologies, and troubleshooting for optimal productivity.
-</p> -->
+<p style="max-width: 70%; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; text-align: justify; color: #333; margin: 20px;">
+  As a Junior Web Developer, I specialize in the MERN Stack, web design, and troubleshooting for optimal productivity. With a strong foundation in interface creation and MERN technologies, I bring valuable skills to contribute effectively in a dynamic web development environment. My focus is on delivering high-quality results and staying abreast of the latest industry trends to ensure continuous improvement. I am enthusiastic about the opportunity to bring my expertise to a new team and contribute to impactful projects.
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerbadrul&label=Profile%20views&color=0e75b6&style=flat" alt="developerbadrul" /> </p>
 
